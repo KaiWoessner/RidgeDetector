@@ -1,2 +1,2 @@
 # RidgeDetectorProject
-The goal of this project is to implement a Canny-inspired ridge detector. This can be accomplished by following the pipeline: apply a smoothing filter, apply the 3 hessian masks, apply non-maximum suppression and finally apply hysteresis thresholding. 
+This project implements a Canny-inspired ridge detector using a workflow of smoothing, hessian filtering, non-maximum suppression, and hysteresis thresholding. 
